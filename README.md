@@ -1,0 +1,2 @@
+# core767
+stm32F767IGT
